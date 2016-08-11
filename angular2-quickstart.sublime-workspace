@@ -1,0 +1,2358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"style",
+				"styleUrls	property"
+			],
+			[
+				"base64",
+				"base64_encode"
+			],
+			[
+				"enc",
+				"encrypted_string"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"vimeo",
+				"vimeo_album_id"
+			],
+			[
+				"coo",
+				"$coordinates〔variable〕"
+			],
+			[
+				"return",
+				"return_arr"
+			],
+			[
+				"latest",
+				"latest_month〔variable〕"
+			],
+			[
+				"fetch",
+				"fetch_url〔variable〕"
+			],
+			[
+				"video_",
+				"video_description"
+			],
+			[
+				"alb",
+				"album_date〔variable〕"
+			],
+			[
+				"fetc",
+				"fetch_url〔variable〕"
+			],
+			[
+				"album",
+				"album_id"
+			],
+			[
+				"overflow-",
+				"overflow-y"
+			],
+			[
+				"notif",
+				"notification_id"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"date_create",
+				"date_create_from_format"
+			],
+			[
+				"video",
+				"video"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"poi",
+				"position"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"save",
+				"saveToFB"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"turmeric",
+				"turmericboost"
+			],
+			[
+				"replace",
+				"$replace_domain〔variable〕"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"Consum",
+				"Consumergiveaways::CS_VERSIONING"
+			],
+			[
+				"brows",
+				"browsegen_get"
+			],
+			[
+				"utf_",
+				"utf8_encode〔function〕"
+			],
+			[
+				"turmeri",
+				"turmericboost"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"ingre",
+				"ingredients〔variable〕"
+			],
+			[
+				"ingred",
+				"$ingredient_id〔variable〕"
+			],
+			[
+				"by_ingre",
+				"$by_ingredient_data〔variable〕"
+			],
+			[
+				"Ca",
+				"CAPTCHA"
+			],
+			[
+				"confirmat",
+				"confirmation_email"
+			],
+			[
+				"turmer",
+				"turmericboost-feature"
+			],
+			[
+				"Turmeric",
+				"TurmericBoost"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"abo",
+				"absolute"
+			],
+			[
+				"myh",
+				"myh2_launch_promo"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"the",
+				"the_element"
+			],
+			[
+				"_thanks",
+				"_thanks_out"
+			],
+			[
+				"url",
+				"url_segment_3"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"modul-",
+				"modul-box-2"
+			],
+			[
+				"border-rad",
+				"border-top-left-radius"
+			],
+			[
+				"small",
+				"small_image_url"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"displa",
+				"display_mode"
+			],
+			[
+				"parent",
+				"parent_item"
+			],
+			[
+				"liste",
+				"list_item"
+			],
+			[
+				"m",
+				"master_field"
+			],
+			[
+				"master",
+				"master_child_ings"
+			],
+			[
+				"ing",
+				"ingredient_children"
+			],
+			[
+				"ingr",
+				"ingredient"
+			],
+			[
+				"site_t",
+				"site_title_alt  (variable)"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"ingredient",
+				"ingredients"
+			],
+			[
+				"va",
+				"validation_errors"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"galler",
+				"gallery_id"
+			],
+			[
+				"gallery",
+				"gallery_model"
+			],
+			[
+				"result",
+				"result2"
+			],
+			[
+				"gn_form_fiel",
+				"gn_form_field_value"
+			],
+			[
+				"instan",
+				"instance_arr"
+			],
+			[
+				"instance",
+				"instance_id"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"upload",
+				"upload_data"
+			],
+			[
+				"cac",
+				"cache_result"
+			],
+			[
+				"img",
+				"imgHeight  (variable)"
+			],
+			[
+				"con",
+				"conseq_cnt"
+			],
+			[
+				"end_",
+				"end_char_pos  (variable)"
+			],
+			[
+				"utf8_",
+				"utf8_encode"
+			],
+			[
+				"reada",
+				"readarang_email_address"
+			],
+			[
+				"border-",
+				"-moz-border-end:   (property)"
+			],
+			[
+				"date_create_",
+				"date_create_from_format  (function)"
+			],
+			[
+				"date_c",
+				"date_create_from_format"
+			],
+			[
+				"date_from",
+				"date_create_from_format"
+			],
+			[
+				"server",
+				"server_time"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"data",
+				"data_arr"
+			],
+			[
+				"form_",
+				"form_fields"
+			],
+			[
+				"this",
+				"this_value"
+			],
+			[
+				"human",
+				"human_test_num2"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"exp",
+				"exp_month_day  (variable)"
+			],
+			[
+				"user",
+				"userinfo"
+			],
+			[
+				"submit",
+				"submit_access"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"borad",
+				"border-top-right-radius"
+			],
+			[
+				"f",
+				"file_name  (variable)"
+			],
+			[
+				"pict",
+				"picture  (variable)"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"hom",
+				"home-backsplash"
+			],
+			[
+				"redirec",
+				"redirect_params"
+			],
+			[
+				"form_field",
+				"form_field_values"
+			],
+			[
+				"space",
+				"space_percentage"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"sche",
+				"sched_arr  (variable)"
+			],
+			[
+				"Date",
+				"DateTime  (class)"
+			],
+			[
+				"recipe",
+				"recipe_id"
+			],
+			[
+				"related",
+				"related_recipes"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"network",
+				"network_id"
+			],
+			[
+				"gn_welln",
+				"gn_wellness_point_type"
+			],
+			[
+				"background-re",
+				"background-repeat"
+			],
+			[
+				"pare",
+				"parent_data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/hero.service.ts",
+			"settings":
+			{
+				"buffer_size": 1885,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/heroes.component.ts",
+			"settings":
+			{
+				"buffer_size": 1921,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/mpc/AppData/Local/Temp/scp05054/usr/share/nginx/html/dd/kirby/site/templates/default.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/mpc/AppData/Local/Temp/scp06671/usr/share/nginx/html/dd/kirby/site/templates/blogapi.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/dd/kirby/site/accounts/admin.php",
+			"settings":
+			{
+				"buffer_size": 422,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/mpc/AppData/Local/Temp/scp01816/usr/share/nginx/html/dd/kirby/site/config/config.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/hero-detail.component.ts",
+			"settings":
+			{
+				"buffer_size": 1337,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/heroes.component.html",
+			"settings":
+			{
+				"buffer_size": 664,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/hero-detail.component.html",
+			"settings":
+			{
+				"buffer_size": 292,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api/methods.php",
+			"settings":
+			{
+				"buffer_size": 483,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/main.ts",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/heroes.json",
+			"settings":
+			{
+				"buffer_size": 398,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1055,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 260,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "typings.json",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "systemjs.config.js",
+			"settings":
+			{
+				"buffer_size": 1622,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 1167,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/dashboard.component.ts",
+			"settings":
+			{
+				"buffer_size": 699,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/dashboard.component.html",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/dashboard.component.css",
+			"settings":
+			{
+				"buffer_size": 958,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.component.css",
+			"settings":
+			{
+				"buffer_size": 425,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/heroes.component.css",
+			"settings":
+			{
+				"buffer_size": 840,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/hero-detail.component.css",
+			"settings":
+			{
+				"buffer_size": 466,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/hero.ts",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 854,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 402,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package cont",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacak",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mpc/AppData/Local/Temp/scp57949/usr/share/nginx/html/dd/kirby/site/config/config.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp53428/usr/share/nginx/html/dd/.env",
+		"/C/dd/.env",
+		"/C/dd/config/database.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp56433/usr/share/nginx/html/dd/kirby/site/accounts/admin.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp04513/usr/share/nginx/html/dd/kirby/site/templates/home.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp52771/usr/share/nginx/cms.dronedata.me-error.log",
+		"/C/Users/mpc/AppData/Local/Temp/scp10938/usr/share/nginx/html/dd/kirby/site/snippets/header.php",
+		"/C/xampp/htdocs/lab/angular2/angular2-tour-of-heroes/api/actions.php",
+		"/C/xampp/htdocs/lab/angular2/angular2-tour-of-heroes/api/post.php",
+		"/C/xampp/htdocs/lab/angular2/angular2-tour-of-heroes/api/.htaccess",
+		"/C/xampp/htdocs/lab/angular2/angular2-tour-of-heroes/app/mock-heroes.js",
+		"/C/xampp/htdocs/lab/angular2/angular2-tour-of-heroes/app/mock-heroes.ts",
+		"/C/xampp/htdocs/lab/angular2/angular2-tour-of-heroes/app/in-memory-data.service.ts",
+		"/C/xampp/htdocs/lab/angular2/angular2-tour-of-heroes/app/styles.css",
+		"/C/xampp/htdocs/lab/angular2/angular2-tour-of-heroes/app/heroes.component.js",
+		"/C/xampp/htdocs/lab/angular2-quickstart/app/main.js",
+		"/C/dd/resources/views/shell.blade.php",
+		"/C/dd/app/Http/Controllers/WeatherController.php",
+		"/C/dd/config/mail.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp17164/usr/share/nginx/html/dd/.env",
+		"/C/dd/resources/views/emails/password.blade.php",
+		"/C/dd/resources/views/emails/feedback.blade.php",
+		"/C/dd/database/seeds/UsersTableSeeder.php",
+		"/C/dd/vendor/laravel/framework/src/Illuminate/Auth/Passwords/PasswordResetServiceProvider.php",
+		"/C/dd/vendor/laravel/framework/src/Illuminate/Auth/Passwords/CanResetPassword.php",
+		"/C/dd/resources/views/auth/reset.blade.php",
+		"/C/dd/.gitignore",
+		"/C/dd/gulpfile.js",
+		"/C/dd/app/Http/Controllers/NotificationController.php",
+		"/C/dd/app/Http/Controllers/PanoController.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp58288/usr/share/nginx/html/dd/app/Http/routes.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp00520/usr/share/nginx/html/dd/app/Project.php",
+		"/C/dd/app/Models/Main.php",
+		"/C/dd/kirby/site/templates/areasapi.php",
+		"/C/dd/resources/assets/js/video.js",
+		"/C/dd/database/migrations/2016_06_03_185934_rename_project_id_column_of_kirbylocations_table_to_project_id.php",
+		"/C/dd/database/migrations/2016_06_10_161337_add_lookup_id_column_to_projects_table.php",
+		"/C/dd/database/migrations/2016_05_25_184006_create_kirby3dmodel_table.php",
+		"/C/dd/database/migrations/2016_05_12_195209_add_user_id_column_to_kirbylocations_table.php",
+		"/C/dd/database/migrations/2016_06_03_182424_create_projects_table.php",
+		"/C/dd/kirby/site/templates/home.php",
+		"/C/dd/kirby/site/templates/projects.php",
+		"/C/dd/kirby/site/templates/default.php",
+		"/C/dd/tests/UnitTest.php",
+		"/C/dd/app/Http/Controllers/VideoController.php",
+		"/C/dd/app/Console/Commands/KirbyPanos.php",
+		"/C/dd/app/Console/Commands/KirbyNotifications.php",
+		"/C/dd/app/Console/Commands/KirbyMaps.php",
+		"/C/dd/app/Console/Commands/KirbyImages.php",
+		"/C/dd/app/Console/Commands/Kirby3dModels.php",
+		"/C/dd/kirby/site/templates/album.php",
+		"/C/dd/kirby/site/snippets/header.php",
+		"/C/dd/app/Http/Controllers/Auth/AuthController.php",
+		"/C/dd/resources/assets/js/panorama.js",
+		"/C/Users/mpc/AppData/Local/Temp/scp27357/usr/share/nginx/cms.dronedata.me-error.log",
+		"/C/dd/kirby/site/blueprints/3dmodel.php",
+		"/C/dd/kirby/site/blueprints/panorama.php",
+		"/C/dd/database/migrations/2016_06_08_153532_add_iframe_column_to_kirbypanos_table.php",
+		"/C/dd/database/migrations/2016_06_08_142413_add_area_column_to_locations_table.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp38186/usr/share/nginx/html/dd/kirby/site/blueprints/location.php",
+		"/C/dd/kirby/site/blueprints/location.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp17438/usr/share/nginx/cms.dronedata.me-error.log",
+		"/C/Users/mpc/AppData/Local/Temp/scp15135/usr/share/nginx/html/dd/kirby/site/templates/blogapi.php",
+		"/C/dd/app/Models/Weather.php",
+		"/C/dd/kirby/site/blueprints/project.php",
+		"/C/dd/kirby/site/blueprints/area.php",
+		"/C/dd/kirby/site/blueprints/areas.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp16138/usr/share/nginx/html/dd/app/Http/Controllers/MainController.php",
+		"/C/dd/database/migrations/2016_05_06_172757_add_image_source_column_to_kirbypanos_table.php",
+		"/C/dd/database/migrations/2016_06_03_183015_drop_cms_token_column_from_users_table_add_project_id_column.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp44770/usr/share/nginx/html/dd/kirby/site/blueprints/area.php",
+		"/C/dd/app/Models/Kirbymap.php",
+		"/C/dd/app/Models/Kirbylocation.php",
+		"/C/dd/app/Models/Kirbyimage.php",
+		"/C/dd/app/Models/Kirby3dmodel.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp28707/usr/share/nginx/html/dd/.env",
+		"/C/Users/mpc/AppData/Local/Temp/scp29078/usr/share/nginx/html/dd/kirby/content/2-projects/1-arc/1-locations/locations.txt",
+		"/C/Users/mpc/AppData/Local/Temp/scp59656/usr/share/nginx/html/dd/.env",
+		"/C/dd/kirby/site/templates/notificationsapi.php",
+		"/C/dd/kirby/content/2-projects/api/areas/notificationsapi.txt",
+		"/C/dd/kirby/site/templates/areas.php",
+		"/C/dd/kirby/site/templates/area.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp24278/usr/share/nginx/html/dd/.gitignore",
+		"/C/Users/mpc/AppData/Local/Temp/scp15779/usr/share/nginx/html/dd/kirby/content/2-projects/api/media/blogapi.txt",
+		"/C/dd/resources/views/index.blade.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp38007/usr/share/nginx/cms.dronedata.me-error.log",
+		"/C/dd/Homestead.yaml",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/dd/app/Http/Middleware/Authenticate.php",
+		"/C/dd/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/dd/database/migrations/2016_05_09_145415_add_index_and_location_id_column_to_kirbymaps_table.php",
+		"/C/dd/database/migrations/2016_05_02_163513_add_coordinates_column_to_kirbymaps_table.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp10774/usr/share/nginx/html/dd/app/Http/routes.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp09563/usr/share/nginx/html/dd/app/Http/Controllers/VideoController.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp10173/usr/share/nginx/html/dd/app/Http/Controllers/MainController.php",
+		"/C/dd/app/Http/Controllers/MapController.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp11791/usr/share/nginx/html/dd/resources/views/video.blade.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp09771/usr/share/nginx/html/dd/app/Http/Controllers/MapController.php",
+		"/C/Users/mpc/AppData/Local/Temp/scp54715/usr/share/nginx/html/dd/.env",
+		"/C/Users/mpc/AppData/Local/Temp/scp07579/etc/php-5.6.d/20-bz2.ini",
+		"/C/Users/mpc/AppData/Local/Temp/scp07465/etc/php-5.6.d/bz2.ini",
+		"/C/dd/dd",
+		"/C/Users/mpc/Desktop/123.json",
+		"/C/Users/mpc/Downloads/index.php",
+		"/C/xampp/htdocs/lab/reacting/app/index.jsx",
+		"/C/xampp/htdocs/panopticon/resources/views/shell.blade.php",
+		"/C/xampp/htdocs/panopticon/app/Http/Controllers/MapController.php",
+		"/C/xampp/htdocs/panopticon/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/panopticon/config/services.php",
+		"/C/xampp/htdocs/panopticon/app/Http/Controllers/CameraController.php",
+		"/C/xampp/htdocs/panopticon/app/Models/Kirbymap.php",
+		"/C/xampp/htdocs/panopticon/app/Http/Controllers/NotificationController.php",
+		"/C/xampp/htdocs/panopticon/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/panopticon/resources/views/auth/register.blade.php",
+		"/C/xampp/htdocs/panopticon/resources/views/auth/reset.blade.php",
+		"/C/xampp/htdocs/panopticon/config/mail.php",
+		"/C/xampp/htdocs/panopticon/app/Models/Kirbynotification.php",
+		"/C/xampp/htdocs/panopticon/app/Http/Controllers/ThreeDeeModelController.php",
+		"/C/xampp/htdocs/panopticon/app/Console/Commands/Kirby3dModels.php",
+		"/C/xampp/htdocs/panopticon/app/Console/Kernel.php",
+		"/C/xampp/htdocs/panopticon/kirby/site/templates/notificationsapi.php",
+		"/C/xampp/htdocs/panopticon/resources/assets/js/panorama.js",
+		"/C/xampp/htdocs/panopticon/app/Models/Kirbylocation.php",
+		"/C/xampp/htdocs/panopticon/app/Http/Controllers/PanoController.php",
+		"/C/xampp/htdocs/panopticon/app/Http/Controllers/ImageController.php",
+		"/C/xampp/htdocs/panopticon/app/Http/Controllers/VideoController.php",
+		"/C/xampp/htdocs/panopticon/app/Models/Main.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\lab\\angular2\\angular2-tour-of-heroes\\app",
+			"C:\\dd,-*/node_modules/*",
+			"C:\\xampp\\htdocs\\panopticon,-*/node_modules/*",
+			"C:\\xampp\\htdocs\\panopticon,-node_modules\\*",
+			"C:\\xampp\\htdocs\\panopticon,-node_modules*",
+			"C:\\xampp\\htdocs\\panopticon,-node_modules",
+			"C:\\xampp\\htdocs\\panopticon",
+			"farmcam02.",
+			"C:\\xampp\\htdocs\\panopticon",
+			"oc-me",
+			"C:\\xampp\\htdocs\\panopticon",
+			"C:\\xampp\\htdocs\\gaiaherbs.com\\gaia-herbs\\blog",
+			"C:\\xampp\\htdocs\\gaiaherbs.com\\gaia-herbs",
+			"C:\\xampp\\htdocs\\gaiaherbs.com\\gaia-herbs\\blog",
+			"C:\\xampp\\htdocs\\gaiaherbs.com\\blog\\",
+			"C:\\xampp\\htdocs\\gaiaherbs.com\\blog",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\myh2\\myh-2.0\\site",
+			"C:\\xampp\\htdocs\\myh2",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\earthbottle.com\\wp-content\\plugins\\job-manager",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"",
+			"C:\\xampp\\htdocs\\earthbottle.com",
+			"C:\\Users\\mpc\\AppData\\Local\\Temp\\scp07007\\home\\p14acb20\\public_html\\wp-content\\plugins\\job-manager",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\willdoo",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet\\",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet\\js",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet\\application\\views",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com",
+			"C:\\xampp\\htdocs\\gaiaherbs.com\\gaia-herbs",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com",
+			"",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"",
+			"C:\\xampp\\htdocs\\lab\\cc",
+			"",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com",
+			"",
+			"C:\\xampp\\htdocs\\gaiaherbs.com\\gaia-herbs",
+			"C:\\xampp\\htdocs\\lab\\",
+			"C:\\xampp\\htdocs\\lab\\readaranginsertGetId",
+			"C:\\xampp\\htdocs\\earthbottle.com",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\willdoo",
+			"C:\\Users\\mpc\\AppData\\Local\\Temp\\scp25108\\var\\www\\html\\willdoo",
+			"",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com",
+			"",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com",
+			"C:\\xampp\\htdocs\\willdoo",
+			"C:\\xampp\\htdocs\\lab",
+			"C:\\xampp\\htdocs\\willdoo",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"",
+			"C:\\xampp\\htdocs\\willdoo",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com",
+			"",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet",
+			"C:\\bm",
+			"C:\\bmw",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet\\blog\\sites\\all\\themes\\bootstrap",
+			"",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet\\bootstrap_calendar",
+			"",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet\\application",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet",
+			"C:\\xampp\\htdocs\\gaiaherbs.com\\gaia-herbs\\",
+			"C:\\xampp\\htdocs\\gaiaherbs.com\\gaia-herbs\\system",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet\\",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet\\blog\\sites\\all\\themes\\bootstrap",
+			"",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet\\people_directory",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet\\blog\\sites\\all\\themes\\bootstrap",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\gaianet",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com\\intranet\\blog\\sites\\all\\themes\\stanley",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"\\\\server014\\wwwroot",
+			"<open files>",
+			"C:\\xampp\\htdocs\\turmericsupreme.com",
+			"C:\\xampp\\htdocs\\gaiaherbs.com",
+			"C:\\xampp\\htdocs\\intranet.gaiaherbs.com",
+			"C:\\xampp\\htdocs\\turmericsupreme.com\\turmericsupreme",
+			"C:\\xampp\\htdocs\\gaiaherbs.com\\gaia-herbs",
+			"C:\\xampp",
+			"C:\\Projects"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"session",
+			"close",
+			"detailcom",
+			"details!",
+			"slice",
+			"slide",
+			"dashboard",
+			"slice",
+			"slide",
+			"my-dashboard",
+			"let",
+			"app",
+			"col-md-6",
+			"aerialresourcecompany",
+			"sent",
+			"ResetsPasswords",
+			"we have e-mailed your",
+			"key_200",
+			"cms_project",
+			"gaia farm",
+			"gaia far,",
+			"dronedeploy",
+			"farmvid",
+			"gaia",
+			".header",
+			"after",
+			".toggle-notif",
+			"farm-p-loc",
+			"p-loc",
+			"farm-p-loc",
+			"nav",
+			"auto_arr",
+			"auto_arr[0",
+			"auto_arr",
+			"bearer",
+			"three",
+			"pano",
+			"three",
+			"threedee_models",
+			"substr",
+			"$user",
+			"location_title",
+			"nav",
+			"data_arr",
+			"g_location",
+			"g_locaiton",
+			"sub",
+			"map_med",
+			"process_dates",
+			"setmap",
+			"g_center",
+			".push",
+			"ajax",
+			"$.",
+			"each",
+			"$user",
+			"user",
+			"cms_token",
+			"$user",
+			"get_notifications\n",
+			"$user",
+			".version",
+			"live",
+			"build",
+			".slide-head",
+			"maps",
+			"flash",
+			"session",
+			"Session::get('cms_token')",
+			"head",
+			"<<<<<<",
+			"threedeemodel-th",
+			"pano",
+			"media",
+			"threedee",
+			"pano",
+			"map_iframe",
+			"panos",
+			"field_panos",
+			"3d",
+			"iframe",
+			"close",
+			"key",
+			"get_by_coordinates",
+			"auto_arr",
+			"mapgroup-id",
+			"auto_arr",
+			"map_",
+			"auto_arr[4",
+			"auto_arr",
+			"auto_arr[4",
+			"auto_arr[3",
+			"[3]",
+			"remove",
+			"//$url = ",
+			"coordinates",
+			"field_maps_coordinates",
+			"field_maps",
+			"coordinates",
+			"current_location",
+			"current_coordinates",
+			"field_panos_coordinates",
+			"field_videos_coordinates",
+			"field_images_coordinates",
+			"coordin",
+			"coordinate",
+			"coordinates",
+			"data-coordinates",
+			"coordinate",
+			"_coordinates",
+			"locations[i][3",
+			"album_id",
+			"albumid",
+			"$field",
+			"$fields",
+			"                $",
+			"$field",
+			"panoptsdfsdfsdficon",
+			"close-pano",
+			"panoramas",
+			"-embed",
+			"drone-map",
+			"drone",
+			"leave",
+			"hover",
+			"$(\".video-info",
+			"$(\"video-info",
+			"hover"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-md-4 col-md-offset-4",
+			"field_maps_locations",
+			"current_location",
+			"field_panos_locations",
+			"field_videos_locations",
+			"field_images_locations",
+			"current_coordinates",
+			"field_videos_coordinates",
+			"field_images_coordinates",
+			"data",
+			"\"../images/",
+			"",
+			".$camera_id.",
+			"app.'.camera_id.'",
+			"app.farmcam02",
+			"farmcam02",
+			"app.'.$camera_id.'.login",
+			"get('app.'.$camera_id.'.url')",
+			"farmcam02.",
+			"v-on:click=\" ",
+			"\"/assets/datepicker/images",
+			"oc-wrapper",
+			"oc-canvas",
+			"oc-menu",
+			"saveInterToFB",
+			"\"http://farmcam02.gaiaherbs.com/language",
+			"\"http://farmcam02.gaiaherbs.com/js/",
+			"\"http://farmcam02.gaiaherbs.com/incl",
+			"\"http://farmcam02.gaiaherbs.com/pics/",
+			"http://farmcam02.gaiaherbs.com/axis-cgi/",
+			"http://farmcam02.gaiaherbs.com/",
+			"'",
+			"",
+			"http://myh.s3.amazonaws.com/myh2-json/",
+			"myh.s3.amazonaws.com/myh2-images/",
+			"myh.s3.amazonaws.com",
+			"h3",
+			"<br />",
+			"</div>",
+			"<div style=\"font-weight:bold; margin-bottom:5px;\">",
+			".'</br><br />' ",
+			"</strong><br />",
+			"strong",
+			"(",
+			" (",
+			" ",
+			")",
+			", ",
+			" (",
+			"\\n",
+			"turmericboost",
+			"col-md-6",
+			"col-md-3",
+			"');",
+			"gh_",
+			".ie-column-buzz",
+			" -- ",
+			"',",
+			"'",
+			" --",
+			"null",
+			"$network_id = $user['ntlm'];",
+			"//$network_id = 'mtb';",
+			"crw",
+			"', 0);",
+			"\\'",
+			"$product",
+			"count",
+			"$l_class",
+			"sess_data",
+			"gn_form_instance_field_value",
+			"field_<?php echo $this_field; ?>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/hero.service.ts",
+					"settings":
+					{
+						"buffer_size": 1885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/heroes.component.ts",
+					"settings":
+					{
+						"buffer_size": 1921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								783,
+								783
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/mpc/AppData/Local/Temp/scp05054/usr/share/nginx/html/dd/kirby/site/templates/default.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/mpc/AppData/Local/Temp/scp06671/usr/share/nginx/html/dd/kirby/site/templates/blogapi.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/dd/kirby/site/accounts/admin.php",
+					"settings":
+					{
+						"buffer_size": 422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/mpc/AppData/Local/Temp/scp01816/usr/share/nginx/html/dd/kirby/site/config/config.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/hero-detail.component.ts",
+					"settings":
+					{
+						"buffer_size": 1337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1254,
+								1254
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/heroes.component.html",
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								335
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/hero-detail.component.html",
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "api/methods.php",
+					"settings":
+					{
+						"buffer_size": 483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/main.ts",
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/heroes.json",
+					"settings":
+					{
+						"buffer_size": 398,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 1055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "tsconfig.json",
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "typings.json",
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "systemjs.config.js",
+					"settings":
+					{
+						"buffer_size": 1622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								205
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "app/app.component.ts",
+					"settings":
+					{
+						"buffer_size": 1167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "app/dashboard.component.ts",
+					"settings":
+					{
+						"buffer_size": 699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								526,
+								526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "app/dashboard.component.html",
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "app/dashboard.component.css",
+					"settings":
+					{
+						"buffer_size": 958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								958,
+								958
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "app/app.component.css",
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "app/heroes.component.css",
+					"settings":
+					{
+						"buffer_size": 840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "app/hero-detail.component.css",
+					"settings":
+					{
+						"buffer_size": 466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "app/hero.ts",
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "styles.css",
+					"settings":
+					{
+						"buffer_size": 402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 401.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"heroes.c",
+				"/C/xampp/htdocs/lab/angular2/angular2-tour-of-heroes/app/heroes.component.html"
+			],
+			[
+				"service",
+				"/C/xampp/htdocs/lab/angular2/angular2-tour-of-heroes/app/hero.service.ts"
+			],
+			[
+				"main",
+				"/C/xampp/htdocs/lab/angular2/angular2-tour-of-heroes/app/main.ts"
+			],
+			[
+				"public",
+				"resources/views/public-shell.blade.php"
+			],
+			[
+				"shell",
+				"resources/views/shell.blade.php"
+			],
+			[
+				"video",
+				"resources/views/video.blade.php"
+			],
+			[
+				"mail",
+				"config/mail.php"
+			],
+			[
+				"",
+				"config/mail.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"mainc",
+				"app/Http/Controllers/MainController.php"
+			],
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"auth",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"kirby",
+				"app/Models/Kirby3dmodel.php"
+			],
+			[
+				"kirby3d",
+				"app/Models/Kirby3dmodel.php"
+			],
+			[
+				"projects",
+				"kirby/site/templates/projectsapi.php"
+			],
+			[
+				"project",
+				"app/Project.php"
+			],
+			[
+				"authcon",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"nav",
+				"resources/views/main-nav.blade.php"
+			],
+			[
+				"video.",
+				"resources/views/video.blade.php"
+			],
+			[
+				"image",
+				"app/Http/Controllers/ImageController.php"
+			],
+			[
+				"videocon",
+				"app/Http/Controllers/VideoController.php"
+			],
+			[
+				"map2",
+				"resources/assets/js/map2.js"
+			],
+			[
+				"panocon",
+				"app/Http/Controllers/PanoController.php"
+			],
+			[
+				"blog",
+				"kirby/site/templates/blogapi.php"
+			],
+			[
+				"threedo",
+				"app/Http/Controllers/ThreeDeeModelController.php"
+			],
+			[
+				"mainct",
+				"app/Http/Controllers/MainController.php"
+			],
+			[
+				"maincont",
+				"app/Http/Controllers/MainController.php"
+			],
+			[
+				"bloga",
+				"kirby/site/templates/blogapi.php"
+			],
+			[
+				"areas",
+				"kirby/site/templates/areasapi.php"
+			],
+			[
+				"video.blade",
+				"resources/views/video.blade.php"
+			],
+			[
+				"vide",
+				"resources/views/video.blade.php"
+			],
+			[
+				"screen",
+				"resources/assets/sass/screen.scss"
+			],
+			[
+				"notificat",
+				"app/Http/Controllers/NotificationController.php"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"seeder",
+				"database/seeds/UsersTableSeeder.php"
+			],
+			[
+				"mapcont",
+				"app/Http/Controllers/MapController.php"
+			],
+			[
+				"kirbyloca",
+				"app/Models/Kirbylocation.php"
+			],
+			[
+				"index",
+				"resources/views/index.blade.php"
+			],
+			[
+				"notificationcont",
+				"app/Http/Controllers/NotificationController.php"
+			],
+			[
+				"vim",
+				"app/Models/Vimeovideo.php"
+			],
+			[
+				"kirbyimage",
+				"app/Console/Commands/KirbyImages.php"
+			],
+			[
+				"imagecon",
+				"app/Http/Controllers/ImageController.php"
+			],
+			[
+				"common.",
+				"resources/assets/js/common.js"
+			],
+			[
+				"video.s",
+				"resources/assets/js/video.js"
+			],
+			[
+				"kirbyma",
+				"app/Models/Kirbymap.php"
+			],
+			[
+				"vimeo",
+				"app/Console/Commands/Vimeo.php"
+			],
+			[
+				"notific",
+				"kirby/site/templates/notificationsapi.php"
+			],
+			[
+				"camera",
+				"resources/assets/js/camera.js"
+			],
+			[
+				"video.js",
+				"resources/assets/js/video.js"
+			],
+			[
+				"video.j",
+				"resources/assets/js/video.js"
+			],
+			[
+				"blade",
+				"resources/views/video.blade.php"
+			],
+			[
+				"camera.",
+				"resources/assets/js/camera.js"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				"map",
+				"resources/assets/js/map2.js"
+			],
+			[
+				"unitt",
+				"tests/UnitTest.php"
+			],
+			[
+				"kerne",
+				"app/Console/Kernel.php"
+			],
+			[
+				"unit",
+				"tests/UnitTest.php"
+			],
+			[
+				"kernel",
+				"app/Console/Kernel.php"
+			],
+			[
+				"weathercon",
+				"app/Http/Controllers/WeatherController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true
+}
