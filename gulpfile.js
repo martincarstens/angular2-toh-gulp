@@ -20,16 +20,6 @@ gulp.task('copy:libs', function() {
     .pipe(gulp.dest('dist/lib'))
 });
 
-gulp.task('copy:libs', function() {
-  return gulp.src([
-      'node_modules/core-js/client/shim.min.js',
-      'node_modules/zone.js/dist/zone.js',
-      'node_modules/reflect-metadata/Reflect.js',
-      'node_modules/systemjs/dist/system.src.js',
-    ])
-    .pipe(gulp.dest('dist/lib'))
-});
-
 gulp.task('copy:assets', ['copy:libs'], function() {
   return gulp.src(['app/**/*', 'index.html', 'styles.css', 'systemjs.config.js', '!app/**/*.ts'], { base : './' })
     .pipe(gulp.dest('dist'))
